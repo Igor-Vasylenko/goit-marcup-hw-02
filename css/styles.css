@@ -37,7 +37,7 @@ body {
   letter-spacing: 0.03em;
   color: var(--decoration-color);
 }
-.span {
+.change {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
@@ -126,7 +126,7 @@ body {
   letter-spacing: 0.03em;
   color: #2196f3;
 }
-.span-footer {
+.change-footer {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
@@ -154,5 +154,6 @@ body {
 .header-link:hover,
 .header-link:focus,
 .header-link-blue:hover,
-.header-link-blue:focus
-{color: violet}
+.header-link-blue:focus {
+  color: violet;
+}
