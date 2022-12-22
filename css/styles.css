@@ -37,7 +37,6 @@ body {
   font-weight: 700;
   font-size: 26px;
   line-height: calc(31 / 26);
-
   color: var(--decoration-color);
 }
 .change {
